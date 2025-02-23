@@ -1,0 +1,156 @@
+Paper Title,Task,Initial Generation or Augmentation,Select Examples to Augment / Generate From Them,Augment based on Examples,Filtering or Relabeling,Filtering/Relabeling Method,Iterarive / Looped Approach,Comments
+"Synthetic Data Generation with Large Language Models for Text
+Classification: Potential and Limitations",Classification,"Zero-shot, Few-shot",,,,,No,
+"Evolving Knowledge Distillation with Large Language Models and
+Active Learning",Classification,,Wrong Predictions,Few-shot,,,Yes,
+"Increasing Diversity While Maintaining Accuracy: Text Data Generation
+with Large Language Models and Human Interventions",Classification,Few-shot,Diversity or Similarity Metrics,Few-shot,"Filtering, Relabeling",,Yes,
+"Leveraging Large Language Models for Code-Mixed Data Augmentation in
+Sentiment Analysis",Classification,Few-shot,,,,,No,
+"Large Language Models are Few-Shot Training Example Generators:
+A Case Study in Fallacy Recognition",Generation,"Zero-shot, Few-shot",,,,,No,
+Distilling Counterfactuals with Large Language Models,Others (Write As Comment),,Others (write as comments),Few-shot,Filtering,Task-specific or Fine-tuned Models,No,
+"Performance-Guided LLM Knowledge Distillation for Efficient Text
+Classification at Scale",Classification,,"Wrong Predictions, Scoring or Influence Functions",Few-shot,,,Yes,
+"Mini-DA: Improving Your Model Performance through Minimal Data
+Augmentation using LLM",Classification,,Wrong Predictions,Zero-shot,,,Yes,
+"Enhancing Low-Resource LLMs Classification
+with PEFT and Synthetic Data",Classification,Few-shot,,,Filtering,Pre-trained Models and LLMs,No,
+"PromptMix: A Class Boundary Augmentation Method for Large Language
+Model Distillation",Classification,Few-shot,,,Relabeling,Pre-trained Models and LLMs,No,
+"Self-Evolution Learning for Mixup: Enhance Data Augmentation on
+Few-Shot Text Classification Tasks",Classification,,Text Difficulty Level,,,,Yes,
+"LLM-Based Synthetic Datasets:
+Applications and Limitations in Toxicity Detection",Classification,Fine-tune a model,,,Filtering,Task-specific or Fine-tuned Models,No,
+Empowering LargeLanguageModels for TextualData Augmentation,Generation,Zero-shot,,,Filtering,Task-specific or Fine-tuned Models,Yes,
+"Two Directions for Clinical Data Generation with Large Language Models:
+Data-to-Label and Label-to-Data",Classification,Zero-shot,,,Filtering,Pre-trained Models and LLMs,No,
+"Let’s Synthesize Step by Step: Iterative Dataset Synthesis with Large
+Language Models by Extrapolating Errors from Small Models","Classification, Generation",Zero-shot,Wrong Predictions,Zero-shot,,,Yes,
+"Generation-Based Data Augmentation for Offensive
+Language Detection: Is It Worth It?",Classification,Fine-tune a model,,,Filtering,Task-specific or Fine-tuned Models,No,
+Schema-Based Data Augmentation for Event Extraction,Generation,Zero-shot,,,,,No,
+"STA: Self-controlled Text Augmentation for Improving Text
+Classifications",Classification,Fine-tune a model,,,Filtering,Task-specific or Fine-tuned Models,No,
+"Guidance-Based Prompt Data Augmentation in Specialized Domains for
+Named Entity Recognition",Classification,Zero-shot,,,,,No,
+"Knowledge Distillation in Automated Annotation:
+Supervised Text Classification with LLM-Generated Training Labels",Classification,Few-shot,,,,,No,
+"ChatGPT Based Data Augmentation for Improved Parameter-Efficient
+Debiasing of LLMs",Generation,Zero-shot,Scoring or Influence Functions,Few-shot,,,No,
+Is ChatGPT the ultimate Data Augmentation Algorithm?,Classification,Zero-shot,,,,,No,
+"DiLM: Distilling Dataset into Language Model
+for Text-level Dataset Distillation",Classification,Fine-tune a model,Scoring or Influence Functions,Fine-tune a model,,,Yes,
+"Distilling Step-by-Step! Outperforming Larger Language Models
+with Less Training Data and Smaller Model Sizes","Generation, Classification",Chain of Thought,,,,,No,
+"LA-UCL: LLM-Augmented Unsupervised Contrastive Learning
+Framework for Few-Shot Text Classification",Classification,,Diversity or Similarity Metrics,"Few-shot, Zero-shot",,,No,
+"Guiding Generative Language Models for
+Data Augmentation in Few-Shot Text Classification",Classification,,"Others (write as comments), Text Difficulty Level",Fine-tune a model,,,No,
+"REGEN: Zero-Shot Text Classification via Training Data Generation with
+Progressive Dense Retrieval",Classification,,Diversity or Similarity Metrics,Fine-tune a model,Filtering,Task-specific or Fine-tuned Models,Yes,
+Label Augmentation for Zero-Shot Hierarchical Text Classification,Classification,,Diversity or Similarity Metrics,Few-shot,,,Yes,
+"On-the-fly Denoising for Data Augmentation
+in Natural Language Understanding",Classification,,,,Relabeling,Task-specific or Fine-tuned Models,No,
+"Generation-driven Contrastive Self-training for Zero-shot Text
+Classification with Instruction-following LLM",Classification,,Scoring or Influence Functions,Fine-tune a model,,,Yes,
+Consistent Text Categorization using Data Augmentation in e-Commerce,Classification,,Scoring or Influence Functions,Fine-tune a model,Filtering,"Task-specific or Fine-tuned Models, Pre-trained Models and LLMs",Yes,
+"LM-CPPF: Paraphrasing-Guided Data Augmentation
+for Contrastive Prompt-Based Few-Shot Fine-Tuning",Classification,,Scoring or Influence Functions,Few-shot,,,No,
+On-the-fly Definition Augmentation of LLMs for Biomedical NER,Classification,Zero-shot,Diversity or Similarity Metrics,Few-shot,,,No,
+Exploring Zero and Few-shot Techniques for Intent Classification,Classification,,Diversity or Similarity Metrics,Zero-shot,,,No,
+Data Augmentation for Radiology Report Simplification,Generation,,Diversity or Similarity Metrics,Few-shot,Filtering,Task-specific or Fine-tuned Models,No,
+"UDAPDR: Unsupervised Domain Adaptation via LLM Prompting and
+Distillation of Rerankers",Others (Write As Comment),Few-shot,Diversity or Similarity Metrics,Few-shot,Filtering,Task-specific or Fine-tuned Models,No,
+"EDDA: An Encoder-Decoder Data Augmentation Framework for
+Zero-Shot Stance Detection",Generation,Chain of Thought,,,,,No,
+Boosting Event Extraction with Denoised Structure-to-Text Augmentation,Generation,Fine-tune a model,Scoring or Influence Functions,Fine-tune a model,Filtering,Task-specific or Fine-tuned Models,Yes,
+"CoDa: Constrained Generation based Data Augmentation
+for Low-Resource NLP",Generation,Zero-shot,,,,,No,
+"People Make Better Edits: Measuring the Efficacy of LLM-Generated
+Counterfactually Augmented Data for Harmful Language Detection",Classification,Few-shot,,,,,No,
+"Dialogue Chain-of-Thought Distillation for Commonsense-aware
+Conversational Agents",Generation,"Chain of Thought, Few-shot",,,Filtering,Pre-trained Models and LLMs,No,
+"LexC-Gen: Generating Data for Extremely Low-Resource Languages
+with Large Language Models and Bilingual Lexicons",Generation,Zero-shot,,,Filtering,Task-specific or Fine-tuned Models,No,
+"Revisit Few-shot Intent Classification with PLMs:
+Direct Fine-tuning vs. Continual Pre-training",Generation,,Diversity or Similarity Metrics,Few-shot,,,No,
+"Enhancing Dialogue State Tracking Models through LLM-backed
+User-Agents Simulation",Generation,Zero-shot,,,,,No,
+"Knowledge-Infused Prompting: Assessing and Advancing Clinical Text
+Data Generation with Large Language Models",Generation,Few-shot,,,,,No,
+ZeroGen: Efficient Zero-shot Learning via Dataset Generation,Classification,Zero-shot,,,Filtering,Task-specific or Fine-tuned Models,No,
+ProGen: Progressive Zero-shot Dataset Generation via In-context Feedback,Classification,Zero-shot,Scoring or Influence Functions,Few-shot,,,Yes,
+"UNIGEN: Universal Domain Generalization
+for Sentiment Classification via Zero-shot Dataset Generation",Classification,Zero-shot,,,Relabeling,Pre-trained Models and LLMs,No,
+FuseGen: PLM Fusion for Data-generation based Zero-shot Learning,Others (Write As Comment),Few-shot,Others (write as comments),"Few-shot, Fine-tune a model",,,Yes,
+"Refining and Synthesis: A Simple yet Effective Data Augmentation
+Framework for Cross-Domain Aspect-based Sentiment Analysis",Generation,Fine-tune a model,Diversity or Similarity Metrics,Zero-shot,Filtering,Task-specific or Fine-tuned Models,No,
+Improving Text Embeddings with Large Language Models,Others (Write As Comment),"Zero-shot, Few-shot",,,,,No,
+"AutoConv: Automatically Generating Information-seeking
+Conversations with Large Language Models",Generation,Fine-tune a model,,,Filtering,Task-specific or Fine-tuned Models,No,
+"MuMath: Multi-perspective Data Augmentation for Mathematical
+Reasoning in Large Language Models",Generation,,,Few-shot,Filtering,Task-specific or Fine-tuned Models,No,
+DALE: Generative Data Augmentation for Low-Resource Legal NLP,Classification,Other Prompting (write as comments),,,,,No,
+"FreeAL: Towards Human-Free Active Learning in the Era of Large
+Language Models",Classification,Zero-shot,Scoring or Influence Functions,Few-shot,Filtering,Task-specific or Fine-tuned Models,Yes,
+"Generative Data Augmentation with Contrastive Learning for Zero-Shot
+Stance Detection",Classification,Zero-shot,,,,,No,
+"Low-Resource Comparative Opinion Quintuple Extraction by Data
+Augmentation with Prompting",Generation,Zero-shot,,,Filtering,Pre-trained Models and LLMs,No,
+"ECG-QALM: Entity-Controlled Synthetic Text Generation using
+Contextual Q&A for NER",Generation,Zero-shot,,,,,No,
+"Large Language Model Augmented Exercise Retrieval for
+Personalized Language Learning",Generation,,Diversity or Similarity Metrics,Zero-shot,,,No,
+"Improving Automated Evaluation
+of Formative Assessments with Text Data
+Augmentation",Classification,Other Prompting (write as comments),,,,,No,
+"Automated Educational Question
+Generation at Diﬀerent Bloom’s Skill
+Levels Using Large Language Models:
+Strategies and Evaluation",Classification,"Zero-shot, Few-shot, Chain of Thought",,,,,No,
+"Beyond the Obvious Multi-choice
+Options: Introducing a Toolkit
+for Distractor Generation Enhanced
+with NLI Filtering",Generation,Other Prompting (write as comments),,,Filtering,Task-specific or Fine-tuned Models,,
+"Towards Automated Multiple Choice Question
+Generation and Evaluation: Aligning
+with Bloom’s Taxonomy",Generation,"Few-shot, Zero-shot",Others (write as comments),,,,No,
+"Improving the Validity of Automatically
+Generated Feedback via Reinforcement
+Learning",Generation,"Chain of Thought, Few-shot",,,,,No,
+"Fine-Tuning a Large Language Model
+with Reinforcement Learning
+for Educational Question Generation",Generation,Fine-tune a model,,,,,No,
+"Towards Human-Like Educational
+Question Generation with Small Language
+Models",Generation,"Zero-shot, Fine-tune a model",,,,,No,
+"Diﬃculty-Controllable Multiple-Choice
+Question Generation for Reading
+Comprehension Using Item Response
+Theory",Generation,Fine-tune a model,Text Difficulty Level,Fine-tune a model,,,No,
+"Generating Contextualized Mathematics
+Multiple-Choice Questions Utilizing
+Large Language Models",Generation,Zero-shot,,,,,No,
+"Machine-Generated Questions Attract
+Instructors When Acquainted with Learning
+Objectives",Generation,Fine-tune a model,,,,,No,
+"Aspect-Based Semantic Textual Similarity
+for Educational Test Items",Generation,Zero-shot,,,Filtering,Pre-trained Models and LLMs,No,
+"Improving Automated Evaluation
+of Student Text Responses Using
+GPT-3.5 for Text Data Augmentation",Classification,,Others (write as comments),,,,No,
+"Scalable Educational Question Generation
+with Pre-trained Language Models",Generation,Fine-tune a model,,,,,No,
+"Automatic Educational Question
+Generation with Diﬃculty Level Controls",Generation,Fine-tune a model,,,,,No,
+"Towards Enriched Controllability
+for Educational Question Generation",Generation,Fine-tune a model,,,,,No,
+"Comparing Diﬀerent Approaches
+to Generating Mathematics Explanations
+Using Large Language Models",Generation,"Few-shot, Zero-shot",,,,,No,
+"How Useful Are Educational Questions
+Generated by Large Language Models?",Generation,"Few-shot, Zero-shot",,,,,No,
+"""Let GPT be a Math Tutor: Teaching Math Word Problem Solvers with Customized Exercise Generation"" EMNLP 2023",Generation,"Zero-shot, Few-shot",Wrong Predictions,"Zero-shot, Few-shot",Filtering,Task-specific or Fine-tuned Models,Yes,
+"Controllable Data Augmentation for Few-Shot Text Mining with
+Chain-of-Thought Attribute Manipulation","Classification, Generation",Chain of Thought,,,,,No,
